@@ -1,0 +1,2 @@
+click>=8.0
+# Add other dependencies as needed (e.g., for Google API, analytics, etc.) 
