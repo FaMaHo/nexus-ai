@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "b14c27f77286feff",
+    "type": "split",
+    "children": [
+      {
+        "id": "b702f963235cdec5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af74588810bcc54e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Research/📖 Best Practices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📖 Best Practices"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f2430ebb45a2679",
+    "type": "split",
+    "children": [
+      {
+        "id": "72bc65fdb1511264",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c66e98af83f1f3fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "96d8652fbbbce9e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "71395ae7ca3f5179",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "beb0968c5fcac38f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e623aa557d488d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db43c05d6bce8731",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "📚 Research/📖 Best Practices.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 📖 Best Practices"
+            }
+          },
+          {
+            "id": "0b0ff9f23a8e2c92",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "📚 Research/📖 Best Practices.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 📖 Best Practices"
+            }
+          },
+          {
+            "id": "da694eb76fec5cbd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "296b272a5880016a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "📚 Research/📖 Best Practices.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 📖 Best Practices"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "af74588810bcc54e",
+  "lastOpenFiles": [
+    "🏗️ Architecture/🗄️ Database Schema.md",
+    "🛠️ Development/🔧 Setup Instructions.md",
+    "📋 Project Management/✅ Task Tracking.md",
+    "💡 Features/📈 Learning Analytics.md",
+    "💡 Features/📊 Smart Scheduling Engine.md",
+    "💡 Features/📅 Calendar Integration.md",
+    "💡 Features/🎯 Goal Management System.md",
+    "📋 Project Management/🐛 Bug Tracker.md",
+    "🏗️ Architecture/🔧 System Design.md",
+    "🏗️ Architecture/🔗 API Design.md",
+    "🏗️ Architecture/🌐 Integration Points.md",
+    "💡 Features/🔮 Future Features.md",
+    "📓 Daily Notes/Daily Development Log.md",
+    "📋 Project Management/📅 Development Timeline.md",
+    "📋 Project Management/🎯 Project Vision.md"
+  ]
+}
